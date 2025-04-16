@@ -6,7 +6,8 @@
 📌 Passionate about building smart, scalable, and AI-powered systems  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue)](https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/)  
-📧 harshrajsinhvaghela7586@gmail.com
+📧 : https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/
+Mailto : vaghelaharshrajsinh2004@gmail.com
 
 ---
 
