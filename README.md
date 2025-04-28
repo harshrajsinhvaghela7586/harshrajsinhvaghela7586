@@ -23,7 +23,6 @@ Mailto : vaghelaharshrajsinh2004@gmail.com
 - Occasion, weather & season-based outfit suggestions
 - Stripe membership system (Free, Silver, Gold)
 - Admin dashboard with AI usage stats & revenue tracking
-- Outfit voting, daily fashion challenges, wardrobe sharing
 
 ---
 
