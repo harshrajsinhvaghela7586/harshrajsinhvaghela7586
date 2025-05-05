@@ -37,10 +37,6 @@ Mailto : [harshrajsinh.vaghela.devops@gmail.com](mailto:harshrajsinh.vaghela.dev
 * Responsive Laravel Blade frontend
 * Admin panel for full artwork management
 
-🔐 **Test Login:**
-`Email: admin@gmail.com`
-`Password: admin`
-
 ---
 
 ### 👨‍💼 \[Employee Management System – PHP]
@@ -53,10 +49,6 @@ Mailto : [harshrajsinh.vaghela.devops@gmail.com](mailto:harshrajsinh.vaghela.dev
 * Track attendance & leave per user
 * Role-based login (Admin & Employee)
 * Basic PHP & MySQL-based dashboard
-
-🔐 **Test Login:**
-`Email: admin@example.com`
-`Password: password`
 
 ---
 
