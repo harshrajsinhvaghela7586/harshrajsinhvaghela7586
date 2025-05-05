@@ -8,13 +8,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue)](https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/)  
 📧 : https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/
 
-Mailto : vaghelaharshrajsinh2004@gmail.com
+Mailto : harshrajsinh.vaghela.devops@gmail.com
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [Digital Wardrobe Assistant](https://github.com/harshrajsinhvaghela7586/digital-wardrobe-assistant)
+### 🧠 [Digital Wardrobe Assistant]
 
 > 🧥 AI-powered fashion assistant that helps users organize, manage, and get intelligent outfit recommendations based on weather, occasions, and personal style.
 
@@ -26,8 +26,7 @@ Mailto : vaghelaharshrajsinh2004@gmail.com
 
 ---
 
-### 🎨 [Digital Art Gallery – Laravel](https://github.com/harshrajsinhvaghela7586/Digital-Art-Gallery-Laravel)
-
+### 🎨 [Digital Art Gallery – Laravel]
 > A creative platform for artists to showcase and manage digital artworks.
 
 **💡 Key Features:**
@@ -42,7 +41,7 @@ Mailto : vaghelaharshrajsinh2004@gmail.com
 
 ---
 
-### 👨‍💼 [Employee Management System – PHP](https://github.com/harshrajsinhvaghela7586/Employee-Management-System-PHP)
+### 👨‍💼 [Employee Management System – PHP]
 
 > Simplifies HR processes like employee data, attendance, and leave tracking.
 
