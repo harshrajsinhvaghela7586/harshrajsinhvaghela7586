@@ -14,7 +14,7 @@ Mailto : harshrajsinh.vaghela.devops@gmail.com
 
 ## 🚀 Featured Projects
 
-### 🧠 [Digital Wardrobe Assistant]
+### 🧠 [Digital Wardrobe Assistant - Django]
 
 > 🧥 AI-powered fashion assistant that helps users organize, manage, and get intelligent outfit recommendations based on weather, occasions, and personal style.
 
