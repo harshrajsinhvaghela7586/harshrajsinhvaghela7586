@@ -1,70 +1,68 @@
-# 👋 Hello, I'm Harshrajsinh Vaghela!
+👋 Hello, I'm Harshrajsinh Vaghela!
 
-🎓 Final Year BCA Student @ LJ University, Ahmedabad  
-💻 Full Stack Web Developer | Django • Laravel • AI Integrations  
-☁️ Future DevOps Engineer | Cloud • CI/CD • Docker • Kubernetes  
-📌 Passionate about building smart, scalable, and AI-powered systems  
+🎓 BCA Graduate (2025) | LJ University, Ahmedabad
+💻 Full Stack Web Developer | Django • Laravel • AI Integrations
+☁️ Aspiring DevOps Engineer | Docker • Kubernetes • CI/CD • Cloud
+📌 Passionate about building smart, scalable, and AI-powered web systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue)](https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/)  
-📧 : https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/
 
-Mailto : harshrajsinh.vaghela.devops@gmail.com
+📧 harshrajsinh.vaghela.devops@gmail.com
 
----
+🚀 Featured Projects
+🧠 Digital Wardrobe Assistant – Django
+AI-powered fashion assistant that helps users organize, manage, and get intelligent outfit recommendations based on weather, occasions, and personal style.
 
-## 🚀 Featured Projects
+🔧 Key Features:
 
-### 🧠 [Digital Wardrobe Assistant - Django]
+CLIP + Google Gemini for image recognition
 
-> 🧥 AI-powered fashion assistant that helps users organize, manage, and get intelligent outfit recommendations based on weather, occasions, and personal style.
+Outfit recommendations based on weather, events, and seasons
 
-**💡 Key Features:**
-- Image recognition using CLIP + Google Gemini API
-- Occasion, weather & season-based outfit suggestions
-- Stripe membership system (Free, Silver, Gold)
-- Admin dashboard with AI usage stats & revenue tracking
+Membership system: Free, Silver, Gold (Stripe-integrated)
 
----
+Admin dashboard: AI usage analytics, revenue tracking
 
-### 🎨 [Digital Art Gallery – Laravel]
-> A creative platform for artists to showcase and manage digital artworks.
+🎨 Digital Art Gallery – Laravel
+A creative platform for artists to showcase and manage their digital artworks.
 
-**💡 Key Features:**
-- Secure artwork uploads and cloud storage
-- Category & artist-based filtering
-- Responsive Laravel Blade frontend
-- Admin panel for full artwork management
+🔧 Key Features:
 
-🔐 **Test Login:**  
-`Email: admin@gmail.com`  
-`Password: admin`
+Secure cloud-based artwork uploads
 
----
+Category & artist filtering system
 
-### 👨‍💼 [Employee Management System – PHP]
+Blade-powered responsive frontend
 
-> Simplifies HR processes like employee data, attendance, and leave tracking.
+Admin panel with full CRUD functionality
 
-**💡 Key Features:**
-- Add, update, and delete employee records
-- Track attendance & leave per user
-- Role-based login (Admin & Employee)
-- Basic PHP & MySQL-based dashboard
+🔐 Test Login:
+Email: admin@gmail.com
+Password: admin
 
-🔐 **Test Login:**  
-`Email: admin@example.com`  
-`Password: password`
+👨‍💼 Employee Management System – PHP
+A simplified HR management portal for employee data, attendance, and leaves.
 
----
+🔧 Key Features:
 
-## 🛠️ Tech Stack & Tools
+Role-based access (Admin, Employee)
 
-```yaml
-Languages:     Python, PHP, JavaScript
-Frameworks:    Django, Django REST Framework, Laravel
-Frontend:      HTML, CSS, Tailwind CSS, Bootstrap, Blade
-DevOps Tools:  Git, GitHub, Docker, CI/CD (Jenkins/ArgoCD), Linux
-Cloud:         AWS (certified), Google Cloud (learning)
-AI Integration: OpenAI, Google Gemini, CLIP
-Database:      MySQL, SQLite
-Others:        Postman, VS Code, Stripe API
+Attendance & leave tracking system
+
+Clean PHP-MySQL dashboard
+
+🔐 Test Login:
+Email: admin@example.com
+Password: password
+
+🛠️ Tech Stack & Tools
+yaml
+Copy
+Edit
+Languages:       Python, PHP, JavaScript
+Frameworks:      Django, Django REST Framework, Laravel
+Frontend:        HTML, CSS, Tailwind CSS, Bootstrap, Blade Templates
+DevOps Tools:    Git, GitHub, Docker, Jenkins, ArgoCD, Linux
+Cloud Platforms: AWS (certified), Google Cloud (in progress)
+AI Integration:  OpenAI (ChatGPT), Google Gemini, CLIP (OpenAI Vision)
+Databases:       MySQL, SQLite
+APIs & Tools:    Postman, Stripe API, VS Code, OpenWeather API
