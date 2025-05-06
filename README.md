@@ -29,7 +29,7 @@
 > A creative platform for artists to showcase and manage digital artworks.
 
 **🔑 Key Features:**
-- 🖼️ Secure artwork uploads and cloud storage
+- 🧾 Add, update, search and delete artwroks & artists
 - 🔍 Category & artist-based filtering
 - 💻 Responsive Laravel Blade frontend
 - 🔧 Admin panel for full artwork management
@@ -38,11 +38,10 @@
 
 ### 👨‍💼 Employee Management System (PHP)
 
-> Simplifies HR processes like employee data, attendance, and leave tracking.
+> Simplifies HR processes like employee data
 
 **🔑 Key Features:**
 - 🧾 Add, update, and delete employee records
-- 🕒 Track attendance & leave per user
 - 🔐 Role-based login (Admin & Employee)
 - 📋 Basic PHP & MySQL-based dashboard
 
