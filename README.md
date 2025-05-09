@@ -24,7 +24,7 @@
 
 ---
 
-### 🎨 Digital Art Gallery (Laravel)
+### 🎨 Online Art Gallery (Laravel)
 
 > A creative platform for artists to showcase and manage digital artworks.
 
