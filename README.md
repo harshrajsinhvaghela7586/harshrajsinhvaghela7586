@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Harshrajsinh Vaghela
 
 🎓 **BCA (2025)** | LJ University, Ahmedabad  
-💻 **Full Stack Web Developer** | Django • Laravel • AI Integrations  
+💻 **Web Developer** | Django • Laravel • AI Integrations  
 ☁️ **Aspiring DevOps Engineer** | Cloud • CI/CD • Docker • Kubernetes  
 📌 Passionate about building smart, scalable, and AI-powered systems
 
