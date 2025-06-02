@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Harshrajsinh Vaghela
 
 🎓 Bachelor of Computer Applications (BCA), 2025 — LJ University, Ahmedabad  
-🎓 Currently pursuing Master of Computer Applications (MCA) — LJ University, Ahmedabad 
+🎓 Currently pursuing Master of Computer Applications (MCA) — LJ University, Ahmedabad  
 💻 **Web Developer** | Django • Laravel • AI Integrations  
 ☁️ **Aspiring DevOps Engineer** | Cloud • CI/CD • Docker • Kubernetes  
 📌 Passionate about building smart, scalable, and AI-powered systems
