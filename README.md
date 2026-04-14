@@ -1,61 +1,128 @@
 # 👋 Hello, I'm Harshrajsinh Vaghela
 
-🎓 Bachelor of Computer Applications (BCA), 2025 — LJ University, Ahmedabad  
-🎓 Currently pursuing Master of Computer Applications (MCA) — LJ University, Ahmedabad  
-💻 **Web Developer** | Django • Laravel • AI Integrations  
-☁️ **Aspiring DevOps Engineer** | Cloud • CI/CD • Docker • Kubernetes  
-📌 Passionate about building smart, scalable, and AI-powered systems
+🎓 BCA (2025) — LJ University, Ahmedabad
+🎓 Currently pursuing MCA — LJ University, Ahmedabad
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue)](https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/)  
+💻 **Full-Stack Developer** | MERN • Django • Laravel • React Native
+☁️ **Aspiring DevOps Engineer** | Docker • CI/CD • Cloud
+🤖 Interested in **AI-powered scalable systems**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=flat\&labelColor=blue)](https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/)
 📧 Email: [harshrajsinh.vaghela.devops@gmail.com](mailto:harshrajsinh.vaghela.devops@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 Digital Wardrobe Assistant (Django)
+## 🛒 TechStore — MERN E-Commerce Platform
 
-> AI-powered fashion assistant that helps users organize, manage, and get intelligent outfit recommendations based on weather, occasions, and personal style.
+Full-stack online technology marketplace built using the MERN stack.
 
-**🔑 Key Features:**
-- 👕 Image recognition using CLIP + Google Gemini API
-- 🎯 Occasion, weather & season-based outfit suggestions
-- 💳 Stripe-powered membership system (Free, Silver, Gold)
-- 📊 Admin dashboard with AI usage stats & revenue tracking
+**Key Features**
 
----
-
-### 🎨 Online Art Gallery (Laravel)
-
-> A creative platform for artists to showcase and manage digital artworks.
-
-**🔑 Key Features:**
-- 🧾 Add, update, search and delete artwroks & artists
-- 🔍 Category & artist-based filtering
-- 💻 Responsive Laravel Blade frontend
-- 🔧 Admin panel for full artwork management
+* User authentication with **JWT + bcrypt password hashing**
+* Product browsing with **search and category filtering**
+* Product detail pages with **image gallery and slider**
+* Shopping cart with **add / remove / update items**
+* **Stripe payment integration** for secure checkout
+* Order lifecycle tracking (**Processing → Shipped → Delivered**)
+* Admin dashboard for **products, orders, users, and revenue**
+* RESTful API architecture using **Node.js & Express**
+* Protected routes and **role-based access control**
+* Responsive **React frontend UI**
 
 ---
 
-### 👨‍💼 Employee Management System (PHP)
+## 🏫 Smart Campus Assistant — MERN College Management System
 
-> Simplifies HR processes like employee data
+Full-stack academic management platform for colleges.
 
-**🔑 Key Features:**
-- 🧾 Add, update, and delete employee records
-- 🔐 Role-based login (Admin & Employee)
-- 📋 Basic PHP & MySQL-based dashboard
+**Key Features**
+
+* **Role-based dashboards** (Admin / Teacher / Student)
+* Dynamic **timetable management system**
+* **Lecture conflict detection** for teachers, rooms, divisions
+* **Timetable override system** (add / modify / cancel lectures)
+* **Real-time announcements and notifications**
+* Student **result and ranking system**
+* **Topper badge and academic performance tracking**
+* **Bulk marks upload support**
+* Administrative **audit logging**
+* RESTful API backend with **MongoDB database**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 📱 Smart Campus Assistant — Mobile App (React Native)
+
+Mobile version of Smart Campus Assistant for smartphones.
+
+**Key Features**
+
+* **Cross-platform mobile app** using React Native
+* Secure **JWT authentication**
+* Real-time **timetable viewing**
+* Lecture details (**subject, teacher, classroom, timing**)
+* **Announcements and notifications**
+* Student **result and ranking access**
+* API integration with **MERN backend**
+* Mobile-first **UI/UX dashboard**
+
+---
+
+## 🧠 Digital Wardrobe Assistant — AI Fashion System (Django)
+
+AI-based wardrobe organizer and outfit recommendation system.
+
+**Key Features**
+
+* **AI clothing recognition** using CLIP + Gemini API
+* Personal **digital wardrobe management**
+* **Weather and occasion-based outfit recommendations**
+* **Subscription system** (Free / Silver / Gold)
+* **Stripe payment integration**
+* Admin dashboard for **AI usage and revenue analytics**
+* Django backend with **AI API integrations**
+
+---
+
+## 🎨 Online Art Gallery — Laravel Platform
+
+Web platform for artists to showcase and manage digital artwork.
+
+**Key Features**
+
+* Artwork **CRUD management**
+* Artist profile management
+* **Category and artist filtering**
+* Artwork search functionality
+* Responsive **Laravel Blade frontend**
+* Admin dashboard for **artwork control**
+* MySQL database integration
+
+---
+
+## 👨‍💼 Employee Management System — PHP
+
+Simple HR management system for managing employee data.
+
+**Key Features**
+
+* Employee **record management (CRUD)**
+* **Role-based login** (Admin / Employee)
+* Admin dashboard for employee data
+* PHP backend with **MySQL database**
+
+---
+
+# 🛠 Tech Stack
 
 ```yaml
-Languages:     Python, PHP, JavaScript
-Frameworks:    Django, Django REST Framework, Laravel
-Frontend:      HTML, CSS, Tailwind CSS, Bootstrap, Blade
-DevOps Tools:  Git, GitHub, Docker, CI/CD (Jenkins/ArgoCD), Linux
-Cloud:         AWS (certified), Google Cloud (learning)
-AI Integration: OpenAI, Google Gemini, CLIP
-Database:      MySQL, SQLite
-Others:        Postman, VS Code, Stripe API
+Languages: Python, PHP, JavaScript
+Frameworks: Django, Laravel, Node.js, Express
+Frontend: React, React Native, HTML, CSS, Tailwind, Bootstrap
+Database: MongoDB, MySQL, SQLite
+DevOps: Git, GitHub, Docker, Linux, CI/CD
+Cloud: AWS, Google Cloud
+AI: OpenAI, Gemini, CLIP
+Tools: Postman, VS Code, Stripe API
+```
