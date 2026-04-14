@@ -4,7 +4,9 @@
 🎓 Currently pursuing MCA — LJ University, Ahmedabad
 
 💻 **Full-Stack Developer** | MERN • Django • Laravel • React Native
+
 ☁️ **Aspiring DevOps Engineer** | Docker • CI/CD • Cloud
+
 🤖 Interested in building **AI-powered scalable systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=flat\&labelColor=blue)](https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/)
