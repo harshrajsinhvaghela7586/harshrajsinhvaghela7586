@@ -1,16 +1,19 @@
-# 👋 Hello, I'm Harshrajsinh Vaghela
+# 👋 Hi, I'm Harshrajsinh Vaghela
 
-🎓 BCA (2025) — LJ University, Ahmedabad
-🎓 Currently pursuing MCA — LJ University, Ahmedabad
+🎓 BCA Graduate — LJ University, Ahmedabad  
+🎓 Currently pursuing MCA — LJ University, Ahmedabad  
 
-💻 **Full-Stack Developer** | MERN • Django • Laravel • React Native
+💻 Full-Stack Developer focused on building scalable web and mobile applications  
+☁️ Aspiring DevOps Engineer with interest in Docker, CI/CD, Cloud, and deployment automation  
+🤖 Interested in AI-powered systems, automation, and real-world product development  
 
-☁️ **Aspiring DevOps Engineer** | Docker • CI/CD • Cloud
+---
 
-🤖 Interested in building **AI-powered scalable systems**
+## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=flat\&labelColor=blue)](https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/)
-📧 [harshrajsinh.vaghela.devops@gmail.com](mailto:harshrajsinh.vaghela.devops@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/)
+
+📧 **Email:** harshrajsinh.vaghela.devops@gmail.com
 
 ---
 
@@ -18,279 +21,235 @@
 
 ---
 
-# 🛒 TechStore — MERN E-Commerce Platform
+## 🛒 TechStore — MERN E-Commerce Platform
 
-Full-stack online technology marketplace built using **MongoDB, Express.js, React.js, Node.js**.
+A full-stack e-commerce platform for technology products, built using the MERN stack with secure authentication, product management, cart functionality, Stripe payments, and an admin dashboard.
 
-### Core Features
+### 🔹 Key Features
 
-**Authentication & Security**
+- JWT-based authentication and protected routes
+- bcrypt password hashing for secure user credentials
+- Role-based access control for Admin and Customer users
+- Dynamic product listing using MongoDB
+- Product detail pages with multiple images
+- Category-based product browsing
+- Global product search with keyword filtering
+- Cart management with quantity update and price calculation
+- Secure Stripe checkout integration
+- Payment verification before order creation
+- User order history and order tracking
+- Admin dashboard for managing products, orders, users, and analytics
 
-* JWT authentication system
-* bcrypt password hashing
-* Protected API routes
-* Role-based access control (Admin / Customer)
+### 🔹 Admin Features
 
-**Product Catalog**
+- Add, edit, and delete products
+- Monitor customer orders
+- Update order status: Processing, Shipped, Delivered
+- Manage platform users
+- View dashboard statistics such as total users, orders, products, and revenue
 
-* Dynamic product listing from MongoDB
-* Product detail pages with multiple images
-* Automatic product image slider
-* Category-based browsing
+### 🔹 Tech Stack
 
-**Search & Navigation**
+`MongoDB` `Express.js` `React.js` `Next.js` `Mongoose` `JWT` `Stripe` `Axios`
 
-* Global product search bar
-* Real-time keyword filtering
-* Responsive product grid layout
-
-**Shopping & Checkout**
-
-* Add / remove items from cart
-* Update product quantities
-* Automatic cart price calculation
-* Checkout system with order confirmation
-
-**Payment System**
-
-* Secure **Stripe payment integration**
-* Payment verification before order creation
-
-**Order Management**
-
-* Order lifecycle tracking:
-
-  Processing → Shipped → Delivered
-
-* User order history
-
-* Order tracking dashboard
-
-**Admin Dashboard**
-
-* Manage products (Add / Edit / Delete)
-* Monitor orders and update status
-* Manage platform users
-* Analytics dashboard:
-
-  * Total users
-  * Total orders
-  * Total products
-  * Revenue overview
-
-**Tech Implementation**
-
-* REST API architecture
-* Express.js backend
-* MongoDB database with Mongoose
-* React component-based frontend
-* Axios API communication
-* Responsive UI design
-
-This project demonstrates strong understanding of **real-world e-commerce architecture and full-stack system design**. 
+> This project demonstrates practical experience in building real-world e-commerce architecture, secure authentication, payment integration, and admin-side business management features.
 
 ---
 
-# 🏫 Smart Campus Assistant — MERN Academic Platform
+## 🏫 Smart Campus Assistant — MERN Academic Platform
 
-Full-stack **college management and academic automation system** built with MERN.
+A full-stack academic management system designed to automate college operations such as timetable scheduling, announcements, role-based dashboards, notifications, and lecture management.
 
-### Role-Based Platform
+### 🔹 Role-Based Access
 
-**Admin**
+### Admin
 
-* Manage teachers and students
-* Create lecture schedules
-* Create academic announcements
-* Monitor system activity
+- Manage teachers and students
+- Create and update lecture schedules
+- Publish academic announcements
+- Monitor platform activity
 
-**Teacher**
+### Teacher
 
-* View assigned lecture schedule
-* Access timetable updates
-* Receive academic notifications
+- View assigned lecture schedules
+- Receive timetable updates
+- Access academic announcements
 
-**Student**
+### Student
 
-* View personal timetable
-* Receive announcements
-* Access academic updates
+- View personal timetable
+- Receive academic announcements
+- Track lecture updates and academic notices
 
-### Academic Management Features
+### 🔹 Core Features
 
-**Timetable System**
+- Role-based authentication and dashboard access
+- Daily timetable creation and management
+- Teacher, classroom, division, and subject assignment
+- Conflict detection for timetable scheduling
+- Timetable override system for date-specific changes
+- Academic announcement system
+- Semester and division-based announcement targeting
+- Student notification system for lecture and announcement updates
+- Modular backend controller structure
+- Protected REST API architecture
 
-* Create lecture schedules
-* Assign teacher, classroom, division, subject
-* Daily lecture timetable view
+### 🔹 Conflict Detection Handles
 
-**Conflict Detection**
+- Teacher schedule conflicts
+- Classroom double booking
+- Division lecture overlap
 
-Automatically prevents:
+### 🔹 Tech Stack
 
-* Teacher schedule conflicts
-* Classroom double booking
-* Division lecture overlap
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT` `REST API`
 
-**Timetable Override**
-
-Admins can:
-
-* Add extra lectures
-* Cancel lectures
-* Modify lecture timings
-
-Overrides apply only for specific dates.
-
-### Announcement System
-
-* Create academic announcements
-* Target announcements by **semester and division**
-* Student announcement feed
-* Chronological announcement timeline
-
-### Notification System
-
-Students receive alerts for:
-
-* Lecture updates
-* Announcement updates
-* Academic notices
-
-### System Architecture
-
-* Node.js + Express REST API
-* MongoDB database
-* Role-based React dashboards
-* Modular controller structure
-* Middleware authentication
-
-This system demonstrates ability to build **large-scale academic platforms with complex role management and scheduling logic**. 
+> This project highlights the ability to build complex academic platforms with role-based workflows, scheduling logic, conflict prevention, and scalable backend architecture.
 
 ---
 
-# 📱 Smart Campus Assistant — Mobile App (React Native)
+## 📱 Smart Campus Assistant — Mobile App
 
-Cross-platform mobile application that extends the Smart Campus Assistant platform to **Android and iOS devices**.
+A React Native mobile application that extends the Smart Campus Assistant platform to Android and iOS devices, allowing students and teachers to access academic features from mobile.
 
-### Mobile Authentication
+### 🔹 Key Features
 
-* Secure JWT login system
-* Backend API token verification
-* Session persistence on device
+- Secure JWT-based mobile login
+- Backend API token verification
+- Session persistence on device
+- Role-based mobile access for students and teachers
+- Mobile dashboard for quick module navigation
+- Daily timetable view
+- Announcement feed with latest updates
+- Lecture update notifications
+- REST API integration with MERN backend
+- Mobile-optimized UI/UX
 
-### Role-Based Mobile Access
+### 🔹 Student Features
 
-**Students**
+- View timetable
+- Receive announcements
+- Track lecture updates
 
-* View timetable
-* Receive academic announcements
-* Track lecture updates
+### 🔹 Teacher Features
 
-**Teachers**
+- View assigned lecture schedules
+- Receive administrative notifications
 
-* View assigned lecture schedules
-* Receive administrative notifications
+### 🔹 Tech Stack
 
-### Mobile Dashboard
+`React Native` `REST API` `JWT` `React Navigation` `MERN Backend`
 
-Central hub providing quick access to:
-
-* Timetable
-* Announcements
-* Academic updates
-* Navigation to main modules
-
-### Timetable Features
-
-* Daily lecture schedule view
-* Subject, teacher, classroom info
-* Chronological lecture layout
-* Real-time timetable updates
-
-### Announcement System
-
-* Announcement feed with latest updates
-* Title, description, timestamp display
-* Semester/division-based filtering
-
-### Notification System
-
-Mobile alerts for:
-
-* Lecture schedule changes
-* New announcements
-* Academic updates
-
-### Mobile Architecture
-
-* React Native cross-platform development
-* REST API integration with MERN backend
-* React Navigation based routing
-* Optimized mobile UI/UX
-* Efficient state management
-
-This project demonstrates the ability to build **mobile applications integrated with full-stack backend systems**. 
+> This project demonstrates experience in building cross-platform mobile applications integrated with full-stack backend systems.
 
 ---
 
-# 🧠 Digital Wardrobe Assistant — AI Fashion System
+## 🧠 Digital Wardrobe Assistant — AI Fashion System
 
-AI-powered wardrobe organizer built using **Django + AI APIs**.
+An AI-powered wardrobe management system that helps users organize clothing items and receive intelligent outfit recommendations based on weather, occasion, and season.
 
-### Key Features
+### 🔹 Key Features
 
-* Upload clothing items to personal digital wardrobe
-* AI clothing recognition using **CLIP model**
-* Outfit recommendations based on:
+- Upload and manage clothing items
+- AI-based clothing recognition using CLIP model
+- Outfit recommendations based on weather, occasion, and seasonal conditions
+- Google Gemini API integration
+- Subscription plans: Free, Silver, and Gold
+- Stripe payment gateway integration
+- Admin dashboard with AI usage analytics
 
-  * Weather
-  * Occasion
-  * Seasonal conditions
-* Google Gemini API integration
-* Subscription plans (Free / Silver / Gold)
-* Stripe payment gateway integration
-* Admin dashboard with AI usage analytics
+### 🔹 Tech Stack
 
----
+`Django` `Python` `AI APIs` `Google Gemini` `CLIP` `Stripe`
 
-# 🎨 Online Art Gallery — Laravel Platform
-
-Digital artwork showcase platform built using **Laravel and MySQL**.
-
-### Features
-
-* Artwork CRUD management
-* Artist profile management
-* Category-based artwork filtering
-* Artwork search functionality
-* Responsive Laravel Blade UI
-* Admin panel for artwork management
+> This project demonstrates experience in combining backend development, AI integration, recommendation systems, and subscription-based monetization.
 
 ---
 
-# 👨‍💼 Employee Management System — PHP
+## 🎨 Online Art Gallery — Laravel Platform
 
-Simple HR system for managing employee data.
+A digital artwork showcase and management platform built using Laravel and MySQL.
 
-### Features
+### 🔹 Key Features
 
-* Employee record CRUD system
-* Admin / Employee role login
-* Admin dashboard for employee management
-* PHP backend with MySQL database
+- Artwork CRUD management
+- Artist profile management
+- Category-based artwork filtering
+- Artwork search functionality
+- Responsive Laravel Blade interface
+- Admin panel for managing artworks and artists
+
+### 🔹 Tech Stack
+
+`Laravel` `PHP` `MySQL` `Blade` `HTML` `CSS`
+
+---
+
+## 👨‍💼 Employee Management System — PHP
+
+A simple HR management system for handling employee records and role-based access.
+
+### 🔹 Key Features
+
+- Employee record CRUD operations
+- Admin and Employee login
+- Admin dashboard for employee management
+- MySQL database integration
+
+### 🔹 Tech Stack
+
+`PHP` `MySQL` `HTML` `CSS`
 
 ---
 
 # 🛠 Tech Stack
 
 ```yaml
-Languages: Python, PHP, JavaScript
-Frameworks: Django, Laravel, Node.js, Express
-Frontend: React, React Native, HTML, CSS, Tailwind
-Database: MongoDB, MySQL, SQLite
-DevOps: Git, GitHub, Docker, Linux, CI/CD
-Cloud: AWS, Google Cloud
-AI: OpenAI, Gemini, CLIP
-Tools: Postman, VS Code, Stripe API
-```
+Languages:
+  - JavaScript
+  - Python
+  - PHP
+
+Frontend:
+  - React.js
+  - React Native
+  - HTML
+  - CSS
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - Express.js
+  - Django
+  - Laravel
+  - PHP
+
+Databases:
+  - MongoDB
+  - MySQL
+  - SQLite
+
+Authentication & Security:
+  - JWT
+  - bcrypt
+  - Protected Routes
+  - Role-Based Access Control
+
+DevOps & Tools:
+  - Git
+  - GitHub
+  - Docker
+  - Linux
+  - CI/CD
+  - Postman
+  - VS Code
+
+Cloud & APIs:
+  - AWS
+  - Google Cloud
+  - Stripe API
+  - Google Gemini API
+  - OpenAI API
+
+AI / ML:
+  - Recommendation Systems
