@@ -1,255 +1,277 @@
-# 👋 Hi, I'm Harshrajsinh Vaghela
+<h1 align="center">Hi 👋, I'm Harshrajsinh Vaghela</h1>
 
-🎓 BCA Graduate — LJ University, Ahmedabad  
-🎓 Currently pursuing MCA — LJ University, Ahmedabad  
+<h3 align="center">
+MERN Stack Developer | Full Stack Developer | MCA Student
+</h3>
 
-💻 Full-Stack Developer focused on building scalable web and mobile applications  
-☁️ Aspiring DevOps Engineer with interest in Docker, CI/CD, Cloud, and deployment automation  
-🤖 Interested in AI-powered systems, automation, and real-world product development  
+<p align="center">
+Passionate about building scalable web applications, modern user experiences, and cloud-ready software solutions.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:harshrajsinh.vaghela.devops@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/)
+🎓 BCA Graduate — LJ University, Ahmedabad
 
-📧 **Email:** harshrajsinh.vaghela.devops@gmail.com
+🎓 Currently Pursuing MCA — LJ University, Ahmedabad
+
+💻 Full Stack Developer with hands-on experience building responsive and scalable web applications using the MERN Stack and Next.js
+
+☁️ Interested in DevOps, Cloud Technologies, CI/CD Pipelines, Containerization, and Deployment Automation
+
+🤖 Passionate about AI-powered applications, automation systems, and solving real-world business problems through technology
+
+🚀 Experienced with modern deployment platforms including Vercel, Render, and MongoDB Atlas
+
+📚 Currently Learning
+
+* Advanced Next.js
+* Docker
+* GitHub Actions
+* AWS Cloud Services
+* System Design
+* Production Deployment Strategies
+
+🎯 Goal
+
+To become a highly skilled Software Engineer capable of designing, developing, deploying, and scaling production-grade applications.
 
 ---
 
-# 🚀 Featured Projects
+## 🔥 Currently Working On
+
+* Next.js Applications
+* MERN Stack Projects
+* REST API Development
+* Cloud Deployment Workflows
+* Dockerized Applications
+* CI/CD Automation
 
 ---
+
+# 🏆 Featured Projects
 
 ## 🛒 TechStore — MERN E-Commerce Platform
 
-A full-stack e-commerce platform for technology products, built using the MERN stack with secure authentication, product management, cart functionality, Stripe payments, and an admin dashboard.
+A production-ready e-commerce platform built using modern full-stack technologies.
 
-### 🔹 Key Features
+### Key Features
 
-- JWT-based authentication and protected routes
-- bcrypt password hashing for secure user credentials
-- Role-based access control for Admin and Customer users
-- Dynamic product listing using MongoDB
-- Product detail pages with multiple images
-- Category-based product browsing
-- Global product search with keyword filtering
-- Cart management with quantity update and price calculation
-- Secure Stripe checkout integration
-- Payment verification before order creation
-- User order history and order tracking
-- Admin dashboard for managing products, orders, users, and analytics
+✔ JWT Authentication
 
-### 🔹 Admin Features
+✔ Secure Password Hashing
 
-- Add, edit, and delete products
-- Monitor customer orders
-- Update order status: Processing, Shipped, Delivered
-- Manage platform users
-- View dashboard statistics such as total users, orders, products, and revenue
+✔ Role-Based Access Control
 
-### 🔹 Tech Stack
+✔ Product Management
 
-`MongoDB` `Express.js` `React.js` `Next.js` `Mongoose` `JWT` `Stripe` `Axios`
+✔ Shopping Cart System
 
-> This project demonstrates practical experience in building real-world e-commerce architecture, secure authentication, payment integration, and admin-side business management features.
+✔ Stripe Payment Integration
+
+✔ Order Tracking
+
+✔ Admin Dashboard
+
+✔ User Management
+
+✔ Sales Analytics
+
+### Tech Stack
+
+`MongoDB` `Express.js` `React.js` `Next.js` `Node.js` `JWT` `Stripe`
 
 ---
 
-## 🏫 Smart Campus Assistant — MERN Academic Platform
+## 🏫 Smart Campus Assistant
 
-A full-stack academic management system designed to automate college operations such as timetable scheduling, announcements, role-based dashboards, notifications, and lecture management.
+A centralized academic management platform designed for educational institutions.
 
-### 🔹 Role-Based Access
+### Key Features
 
-### Admin
+✔ Role-Based Authentication
 
-- Manage teachers and students
-- Create and update lecture schedules
-- Publish academic announcements
-- Monitor platform activity
+✔ Timetable Management
 
-### Teacher
+✔ Conflict Detection
 
-- View assigned lecture schedules
-- Receive timetable updates
-- Access academic announcements
+✔ Academic Announcements
 
-### Student
+✔ Notification System
 
-- View personal timetable
-- Receive academic announcements
-- Track lecture updates and academic notices
+✔ Student Dashboard
 
-### 🔹 Core Features
+✔ Faculty Dashboard
 
-- Role-based authentication and dashboard access
-- Daily timetable creation and management
-- Teacher, classroom, division, and subject assignment
-- Conflict detection for timetable scheduling
-- Timetable override system for date-specific changes
-- Academic announcement system
-- Semester and division-based announcement targeting
-- Student notification system for lecture and announcement updates
-- Modular backend controller structure
-- Protected REST API architecture
+✔ Admin Dashboard
 
-### 🔹 Conflict Detection Handles
+✔ REST API Architecture
 
-- Teacher schedule conflicts
-- Classroom double booking
-- Division lecture overlap
+### Tech Stack
 
-### 🔹 Tech Stack
-
-`MongoDB` `Express.js` `React.js` `Node.js` `JWT` `REST API`
-
-> This project highlights the ability to build complex academic platforms with role-based workflows, scheduling logic, conflict prevention, and scalable backend architecture.
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
 
 ---
 
-## 📱 Smart Campus Assistant — Mobile App
+## 📱 Smart Campus Assistant Mobile App
 
-A React Native mobile application that extends the Smart Campus Assistant platform to Android and iOS devices, allowing students and teachers to access academic features from mobile.
+A React Native mobile application integrated with the Smart Campus ecosystem.
 
-### 🔹 Key Features
+### Key Features
 
-- Secure JWT-based mobile login
-- Backend API token verification
-- Session persistence on device
-- Role-based mobile access for students and teachers
-- Mobile dashboard for quick module navigation
-- Daily timetable view
-- Announcement feed with latest updates
-- Lecture update notifications
-- REST API integration with MERN backend
-- Mobile-optimized UI/UX
+✔ Secure Authentication
 
-### 🔹 Student Features
+✔ Timetable Access
 
-- View timetable
-- Receive announcements
-- Track lecture updates
+✔ Academic Announcements
 
-### 🔹 Teacher Features
+✔ Lecture Notifications
 
-- View assigned lecture schedules
-- Receive administrative notifications
+✔ Mobile Optimized Experience
 
-### 🔹 Tech Stack
+✔ Backend API Integration
 
-`React Native` `REST API` `JWT` `React Navigation` `MERN Backend`
+### Tech Stack
 
-> This project demonstrates experience in building cross-platform mobile applications integrated with full-stack backend systems.
+`React Native` `JWT` `REST API` `Node.js`
 
 ---
 
-## 🧠 Digital Wardrobe Assistant — AI Fashion System
+## 🧠 Digital Wardrobe Assistant
 
-An AI-powered wardrobe management system that helps users organize clothing items and receive intelligent outfit recommendations based on weather, occasion, and season.
+An AI-powered recommendation platform that suggests outfits based on weather, season, and occasion.
 
-### 🔹 Key Features
+### Key Features
 
-- Upload and manage clothing items
-- AI-based clothing recognition using CLIP model
-- Outfit recommendations based on weather, occasion, and seasonal conditions
-- Google Gemini API integration
-- Subscription plans: Free, Silver, and Gold
-- Stripe payment gateway integration
-- Admin dashboard with AI usage analytics
+✔ AI Clothing Recognition
 
-### 🔹 Tech Stack
+✔ Outfit Recommendation Engine
 
-`Django` `Python` `AI APIs` `Google Gemini` `CLIP` `Stripe`
+✔ Google Gemini API Integration
 
-> This project demonstrates experience in combining backend development, AI integration, recommendation systems, and subscription-based monetization.
+✔ Subscription Management
 
----
+✔ Stripe Payments
 
-## 🎨 Online Art Gallery — Laravel Platform
+✔ Analytics Dashboard
 
-A digital artwork showcase and management platform built using Laravel and MySQL.
+### Tech Stack
 
-### 🔹 Key Features
-
-- Artwork CRUD management
-- Artist profile management
-- Category-based artwork filtering
-- Artwork search functionality
-- Responsive Laravel Blade interface
-- Admin panel for managing artworks and artists
-
-### 🔹 Tech Stack
-
-`Laravel` `PHP` `MySQL` `Blade` `HTML` `CSS`
+`Python` `Django` `Gemini API` `CLIP` `Stripe`
 
 ---
 
-## 👨‍💼 Employee Management System — PHP
+## 🛠 Tech Stack
 
-A simple HR management system for handling employee records and role-based access.
+### Languages
 
-### 🔹 Key Features
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge\&logo=php)
 
-- Employee record CRUD operations
-- Admin and Employee login
-- Admin dashboard for employee management
-- MySQL database integration
+### Frontend
 
-### 🔹 Tech Stack
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
 
-`PHP` `MySQL` `HTML` `CSS`
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge\&logo=express)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge\&logo=firebase)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=githubactions)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
-# 🛠 Tech Stack
+## 📜 Certifications
 
-```yaml
-Languages:
-  - JavaScript
-  - Python
-  - PHP
+🏅 IBM DevOps and Software Engineering Professional Certificate
 
-Frontend:
-  - React.js
-  - React Native
-  - HTML
-  - CSS
-  - Tailwind CSS
+🏅 AWS Academy Graduate – Cloud Architecting
 
-Backend:
-  - Node.js
-  - Express.js
-  - Django
-  - Laravel
-  - PHP
+---
 
-Databases:
-  - MongoDB
-  - MySQL
-  - SQLite
+## 📊 GitHub Stats
 
-Authentication & Security:
-  - JWT
-  - bcrypt
-  - Protected Routes
-  - Role-Based Access Control
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshrajsinhvaghela7586&show_icons=true&theme=tokyonight" height="170"/>
 
-DevOps & Tools:
-  - Git
-  - GitHub
-  - Docker
-  - Linux
-  - CI/CD
-  - Postman
-  - VS Code
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajsinhvaghela7586&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-Cloud & APIs:
-  - AWS
-  - Google Cloud
-  - Stripe API
-  - Google Gemini API
-  - OpenAI API
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajsinhvaghela7586&theme=tokyonight"/>
+</p>
 
-AI / ML:
-  - Recommendation Systems
+---
+
+## 🎯 2026 Goals
+
+✅ Master Next.js
+
+✅ Build Production-Ready SaaS Products
+
+✅ Strengthen DevOps Skills
+
+✅ Learn Kubernetes
+
+✅ Improve System Design Knowledge
+
+✅ Contribute to Open Source
+
+✅ Become a Full Stack & Cloud Engineer
+
+---
+
+## 💡 Fun Facts
+
+⚡ I enjoy turning ideas into real-world products
+
+⚡ Passionate about automation and cloud technologies
+
+⚡ Love solving backend and deployment challenges
+
+⚡ Interested in AI-powered applications
+
+⚡ Always learning and improving
+
+---
+
+## 💬 Favorite Quote
+
+> "First solve the problem. Then write the code."
+
+— John Johnson
+
+---
+
+⭐ Open to Full Stack Development, MERN Stack Projects, Open Source Collaboration, and Software Engineering Opportunities.
