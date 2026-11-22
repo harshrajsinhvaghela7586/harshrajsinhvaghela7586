@@ -1,277 +1,129 @@
-<h1 align="center">Hi 👋, I'm Harshrajsinh Vaghela</h1>
-
-<h3 align="center">
-MERN Stack Developer | Full Stack Developer | MCA Student
-</h3>
+<h1 align="center">Hi, I'm Harshrajsinh Vaghela 👋</h1>
 
 <p align="center">
-Passionate about building scalable web applications, modern user experiences, and cloud-ready software solutions.
+  <b>Full Stack Developer (MERN + Next.js)</b> · learning <b>DevOps &amp; Cloud</b> · MCA student · Ahmedabad, India
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:harshrajsinh.vaghela.devops@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
+  I build full-stack web apps, then learn how to ship, monitor and scale them.
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshrajsinh-vaghela-a38bba300/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harshrajsinh.vaghela.devops@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bmw-studio.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-BMW_Studio-1c69d4?style=for-the-badge&logo=vercel&logoColor=white" alt="BMW Studio live demo" /></a>
+</p>
 
-## 🚀 About Me
-
-🎓 BCA Graduate — LJ University, Ahmedabad
-
-🎓 Currently Pursuing MCA — LJ University, Ahmedabad
-
-💻 Full Stack Developer with hands-on experience building responsive and scalable web applications using the MERN Stack and Next.js
-
-☁️ Interested in DevOps, Cloud Technologies, CI/CD Pipelines, Containerization, and Deployment Automation
-
-🤖 Passionate about AI-powered applications, automation systems, and solving real-world business problems through technology
-
-🚀 Experienced with modern deployment platforms including Vercel, Render, and MongoDB Atlas
-
-📚 Currently Learning
-
-* Advanced Next.js
-* Docker
-* GitHub Actions
-* AWS Cloud Services
-* System Design
-* Production Deployment Strategies
-
-🎯 Goal
-
-To become a highly skilled Software Engineer capable of designing, developing, deploying, and scaling production-grade applications.
+<p align="center"><b>Open to full-time Full Stack / MERN roles</b> (Ahmedabad onsite or remote, India)</p>
 
 ---
 
-## 🔥 Currently Working On
+## 👨‍💻 About me
 
-* Next.js Applications
-* MERN Stack Projects
-* REST API Development
-* Cloud Deployment Workflows
-* Dockerized Applications
-* CI/CD Automation
+- 🎓 BCA graduate, now doing **MCA at LJ University**, Ahmedabad (2027)
+- 💼 **Software Developer Intern at Visezy Solutions** (Jun – Nov 2026): React, React Native, Node.js and MongoDB on real client work
+- 🧱 I like owning a feature from the database to the pixels: schema, API, UI, deployment
+- ☁️ Right now I'm going deeper into **Docker, CI/CD, Terraform, Kubernetes and Azure** by building a real project instead of only following tutorials
+- 🤖 I enjoy AI-powered features (Gemini API) and automation that solves real problems
 
----
+## 🔭 What I'm building now
 
-# 🏆 Featured Projects
-
-## 🛒 TechStore — MERN E-Commerce Platform
-
-A production-ready e-commerce platform built using modern full-stack technologies.
-
-### Key Features
-
-✔ JWT Authentication
-
-✔ Secure Password Hashing
-
-✔ Role-Based Access Control
-
-✔ Product Management
-
-✔ Shopping Cart System
-
-✔ Stripe Payment Integration
-
-✔ Order Tracking
-
-✔ Admin Dashboard
-
-✔ User Management
-
-✔ Sales Analytics
-
-### Tech Stack
-
-`MongoDB` `Express.js` `React.js` `Next.js` `Node.js` `JWT` `Stripe`
+**PingWatch** – an uptime-monitoring service with a public status page, built as my DevOps learning project.
+Week by week it grows from API and worker to Terraform on Azure, Kubernetes, Prometheus and Grafana. Follow the commits to see the progress.
 
 ---
 
-## 🏫 Smart Campus Assistant
+## 🏆 Featured projects
 
-A centralized academic management platform designed for educational institutions.
+### 🚗 [BMW Studio](https://bmw-studio.vercel.app) · Next.js · PostgreSQL · Live
 
-### Key Features
+An educational (non-commercial, not affiliated with BMW) catalogue of 30 models with India ex-showroom prices, colour variants, compare tool, test-drive booking and an admin panel.
 
-✔ Role-Based Authentication
+- Email OTP, Google sign-in, JWT with rotating refresh tokens
+- Server-side paging, debounced search, CORS rules, rate limiting
+- Gemini chat assistant that answers with tables and charts, limited to BMW questions
+- Admin dashboard for models, stock, blog, enquiries and analytics
 
-✔ Timetable Management
+`Next.js` `TypeScript` `PostgreSQL` `Tailwind CSS` `Framer Motion` `Gemini API` `Vercel`
 
-✔ Conflict Detection
+### 📡 PingWatch · Node.js · Docker · In progress
 
-✔ Academic Announcements
+Add a URL, it gets checked on a schedule; you get history, uptime %, incidents and a public status page.
 
-✔ Notification System
+- Scheduler that is safe with many workers (`FOR UPDATE SKIP LOCKED`), BullMQ job queue, incident lifecycle in one transaction
+- SSRF protection, per-user data isolation, Prometheus metrics, health/readiness probes
+- Docker Compose, GitHub Actions CI and image publishing to GHCR
+- Next.js dashboard and server-rendered public status page
 
-✔ Student Dashboard
+`Node.js` `TypeScript` `PostgreSQL` `Redis` `BullMQ` `Next.js` `Docker` `GitHub Actions`
 
-✔ Faculty Dashboard
+### 🛒 TechStore · MERN e-commerce
 
-✔ Admin Dashboard
+JWT auth with role-based access, product and cart management, Stripe payments, order tracking, admin dashboard with sales analytics.
 
-✔ REST API Architecture
+`MongoDB` `Express` `React` `Next.js` `Node.js` `Stripe`
 
-### Tech Stack
+### 🏫 Smart Campus Assistant · MERN + React Native
 
-`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+Academic platform with role-based dashboards for students, faculty and admins: timetables with conflict detection, announcements and notifications. A React Native app uses the same REST API.
 
----
+`MongoDB` `Express` `React` `React Native` `Node.js` `JWT`
 
-## 📱 Smart Campus Assistant Mobile App
+### 👗 Digital Wardrobe Assistant · AI
 
-A React Native mobile application integrated with the Smart Campus ecosystem.
-
-### Key Features
-
-✔ Secure Authentication
-
-✔ Timetable Access
-
-✔ Academic Announcements
-
-✔ Lecture Notifications
-
-✔ Mobile Optimized Experience
-
-✔ Backend API Integration
-
-### Tech Stack
-
-`React Native` `JWT` `REST API` `Node.js`
-
----
-
-## 🧠 Digital Wardrobe Assistant
-
-An AI-powered recommendation platform that suggests outfits based on weather, season, and occasion.
-
-### Key Features
-
-✔ AI Clothing Recognition
-
-✔ Outfit Recommendation Engine
-
-✔ Google Gemini API Integration
-
-✔ Subscription Management
-
-✔ Stripe Payments
-
-✔ Analytics Dashboard
-
-### Tech Stack
+Suggests outfits from weather, season and occasion, with AI clothing recognition, Stripe subscriptions and an analytics dashboard.
 
 `Python` `Django` `Gemini API` `CLIP` `Stripe`
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech stack
 
-### Languages
+**Languages** &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge\&logo=php)
+**Frontend** &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frontend
+**Backend** &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge\&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
+**Databases** &nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Backend
+**DevOps &amp; tools** &nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge\&logo=express)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge\&logo=firebase)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=githubactions)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge\&logo=visualstudiocode)
+**Learning next** &nbsp; ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
 ## 📜 Certifications
 
-🏅 IBM DevOps and Software Engineering Professional Certificate
-
-🏅 AWS Academy Graduate – Cloud Architecting
+- 🏅 IBM DevOps and Software Engineering Professional Certificate
+- 🏅 AWS Academy Graduate – Cloud Architecting
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 2026–27 roadmap
+
+- [x] Ship full-stack apps with auth, payments and admin panels
+- [x] Deploy a project to production on Vercel (BMW Studio)
+- [x] Containerise a service and set up CI (PingWatch)
+- [ ] Infrastructure as code with Terraform on Azure
+- [ ] Run PingWatch on Kubernetes with Prometheus and Grafana
+- [ ] Improve system design skills
+- [ ] Contribute to open source
+
+---
+
+## 📊 GitHub stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshrajsinhvaghela7586&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajsinhvaghela7586&layout=compact&theme=tokyonight" height="170"/>
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=harshrajsinhvaghela7586&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajsinhvaghela7586&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajsinhvaghela7586&theme=tokyonight"/>
+  <img alt="Streak" src="https://streak-stats.demolab.com/?user=harshrajsinhvaghela7586&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+<p align="center"><i>"First solve the problem. Then write the code." – John Johnson</i></p>
 
-✅ Master Next.js
-
-✅ Build Production-Ready SaaS Products
-
-✅ Strengthen DevOps Skills
-
-✅ Learn Kubernetes
-
-✅ Improve System Design Knowledge
-
-✅ Contribute to Open Source
-
-✅ Become a Full Stack & Cloud Engineer
-
----
-
-## 💡 Fun Facts
-
-⚡ I enjoy turning ideas into real-world products
-
-⚡ Passionate about automation and cloud technologies
-
-⚡ Love solving backend and deployment challenges
-
-⚡ Interested in AI-powered applications
-
-⚡ Always learning and improving
-
----
-
-## 💬 Favorite Quote
-
-> "First solve the problem. Then write the code."
-
-— John Johnson
-
----
-
-⭐ Open to Full Stack Development, MERN Stack Projects, Open Source Collaboration, and Software Engineering Opportunities.
+<p align="center">Open to Full Stack and MERN roles, open-source collaboration and interesting problems. Say hi 👋</p>
